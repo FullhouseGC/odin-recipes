@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    color: gray;
+}
+
+.head{
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    text-align: center;
+    font-size: 30px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mojo {
+    width: 300px;
+    height: auto;
+}
